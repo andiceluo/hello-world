@@ -1,2 +1,5 @@
 # hello-world
-The hello world repository
+
+Hi all, 
+
+This is Chong. I used to work on multimedia communications, but more recently, I have been working on computer vision tasks such as dashcam video analytics. 
